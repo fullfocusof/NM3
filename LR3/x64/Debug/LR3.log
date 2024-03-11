@@ -1,0 +1,5 @@
+﻿  Equation.cpp
+  LR3.cpp
+  Создание кода...
+E:\Projects\NumMethods\LR3\LR3\Equation.cpp(60): warning C4715: Equation::Dichotomy: значение возвращается не при всех путях выполнения
+  LR3.vcxproj -> E:\Projects\NumMethods\LR3\x64\Debug\LR3.exe
